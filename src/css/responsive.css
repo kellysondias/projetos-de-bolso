@@ -1,0 +1,10 @@
+@media (max-width: 870px) {
+    .projects {
+        margin: 0 auto;
+        width: 66%;
+    }
+
+    .project {
+        margin-bottom: 20px;
+    }
+}
