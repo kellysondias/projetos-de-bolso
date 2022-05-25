@@ -1,10 +1,26 @@
 @media (max-width: 870px) {
+    header h1 {
+        font-size: 30px;
+    }
+    
+    header p {
+        font-size: 18px;
+    }
+
     .projects {
         margin: 0 auto;
         width: 66%;
     }
 
+    .projects div:last-child {
+        margin-bottom: 0;
+    }
+
     .project {
         margin-bottom: 20px;
+    }
+
+    .portfolio-link {
+        margin-bottom: 13px;
     }
 }
