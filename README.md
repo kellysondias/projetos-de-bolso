@@ -4,13 +4,13 @@
 
 <img src="src/img/desktop.gif" alt="Página desktop">
 
-- <a href="">Ver página</a>
+- <a href="https://kellysondias.github.io/projetos-de-bolso/">Ver página</a>
 
 ## Versão mobile
 
 <img src="src/img/mobile.gif" alt="Página mobile">
 
-- <a href="">Ver página</a>
+- <a href="https://kellysondias.github.io/projetos-de-bolso/">Ver página</a>
 
 ## Tecnologias utilizadas
 - HTML
